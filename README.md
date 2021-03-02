@@ -28,7 +28,7 @@
 
 </details>
 <details>
- <summary>:Zap: GitHub Stats</summary>
+ <summary>:zap: GitHub Stats</summary>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=renukamano&show_icons=true&locale=en" alt="renukamano" />
  </details>
  
