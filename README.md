@@ -17,8 +17,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renukamano&label=Profile%20views&color=0e75b6&style=flat" alt="renukamano" /> </p>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=renukamano&show_icons=true&locale=en&layout=compact" alt="renukamano" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renukamano&show_icons=true&locale=en" alt="renukamano" /></p>
 
 
+<p>&nbsp;</p>
+
+<details>
+  <summary>:zap: GitHub Languages</summary>
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=renukamano&show_icons=true&locale=en&layout=compact" alt="renukamano" />
+
+</details>
+<details>
+ <summary>:Zap: GitHub Stats</summary>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=renukamano&show_icons=true&locale=en" alt="renukamano" />
+ </details>
+ 
