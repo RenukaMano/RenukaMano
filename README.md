@@ -27,7 +27,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=renukamano&show_icons=true&locale=en&layout=compact" alt="renukamano" />
 
 </details>
-<details>
+<details align="right">
  <summary>:zap: GitHub Stats</summary>
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=renukamano&show_icons=true&locale=en" alt="renukamano" />
  </details>
