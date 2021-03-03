@@ -29,6 +29,6 @@
 </details>
 <details>
  <summary>:zap: GitHub Stats</summary>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=renukamano&show_icons=true&locale=en" alt="renukamano" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=renukamano&show_icons=true&locale=en" alt="renukamano" />
  </details>
  
