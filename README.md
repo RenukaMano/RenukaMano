@@ -5,7 +5,7 @@
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/44516907/109629896-6f733a00-7b98-11eb-9efc-2b0bf8abac9a.gif" width="500" height="320" />
 - 🔭 I’m currently working as a volunteer **Code For Australia**
 
-- 🌱 I’m currently learning **React and SQL**
+- 🌱 I’m currently learning **AWS and Devops tools**
 
 - 🤝 I’m looking for help with **Javascript and React**
 
