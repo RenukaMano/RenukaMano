@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Renuka</h1>
+<h1 align="center">Hi 👋,</h1>
 <h3 align="center">A Junior Web Developer currently learning React</h3>
 
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/44516907/109629896-6f733a00-7b98-11eb-9efc-2b0bf8abac9a.gif" width="500" height="320" />
