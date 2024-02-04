@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Javascript and React**
 
-- 📫 How to reach me **renuka.mklb@gmail.com**
+- 📫 How to reach me **renukadm10@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
